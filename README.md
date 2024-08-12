@@ -1,4 +1,4 @@
-# Project-2-e-commerce
+# Project 2 e-commerce
 
 *User behavior analysis and product delivery performance, cohort analysis of users, RFM analysis.*
 
